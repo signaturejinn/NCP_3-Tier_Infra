@@ -43,12 +43,6 @@
 ## 📝 상세 내용 
 ### 📌 Infra Architecture
 ![image](https://user-images.githubusercontent.com/117608997/215604392-9ba6c27a-f2cc-4c16-bce0-8d1a3a2c575b.png)
-
-</br>
-
-## ⛓️ 구축 과정
-### 🔗 Notion Link
-#### - [NCP Project](https://glen-party-257.notion.site/NCP-b08ecfc37232433f9acca9105e682b3f)
 ```
 Web 서버 구축
 - Block Storage 마운트 후 Apache 8.44 설치
@@ -62,6 +56,12 @@ Web-WAS 연동
 Was-DB 연동
 - jdbc
 ```
+
+</br>
+
+## ⛓️ 구축 과정
+### 🔗 Notion Link
+#### - [NCP Project](https://glen-party-257.notion.site/NCP-b08ecfc37232433f9acca9105e682b3f)
 
 ### 🔗 Git Link
 #### -
