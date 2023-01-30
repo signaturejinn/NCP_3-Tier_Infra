@@ -62,8 +62,4 @@ Was-DB 연동
 ## ⛓️ 구축 과정
 ### 🔗 Notion Link
 #### - [NCP Project](https://glen-party-257.notion.site/NCP-b08ecfc37232433f9acca9105e682b3f)
-
-### 🔗 Git Link
-#### -
-
 </br>
