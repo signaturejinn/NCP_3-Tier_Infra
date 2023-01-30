@@ -38,6 +38,8 @@
     - Web Was Server 연동
     - DB 구성 및 연동
 
+</br>
+
 ## 📝 상세 내용 
 ### 📌 Infra Architecture
 ![image](https://user-images.githubusercontent.com/117608997/215604392-9ba6c27a-f2cc-4c16-bce0-8d1a3a2c575b.png)
