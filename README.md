@@ -44,7 +44,7 @@
 
 ## 📝 상세 내용 
 ### 📌 Infra Architecture
-![image](https://user-images.githubusercontent.com/117608997/216570552-ccddd5d7-3982-4fc8-b353-bb4b939617f3.png)
+![image](https://user-images.githubusercontent.com/117608997/216755229-52b7b5d7-86cd-42a4-9923-d1d30c20763e.png)
 ```
 Web 서버 구축
 - Block Storage 마운트 후 Apache 8.44 설치
